@@ -1,0 +1,28 @@
+		body{
+			background-color: #D1F5BE;
+		}
+		h3{
+			text-align: center;
+			
+		}
+		li{
+			background-color: #9DB17C;
+			margin: 10px;
+			border-radius: 20px;
+			padding: 20px;
+			text-align: center;
+			text-height: 150px;
+		}
+		img{
+			border-radius: 5px;
+		}
+
+		.mov_th{
+			height: 200px;
+			width: 120px;
+			border-radius: 2px;
+		}
+
+
+		
+		
